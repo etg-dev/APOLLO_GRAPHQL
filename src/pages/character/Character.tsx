@@ -1,5 +1,5 @@
 import "./Character.css";
-import { useCharacter } from "../hooks/useCharacter";
+import { useCharacter } from "../../hooks/useCharacter";
 import { useParams } from "react-router-dom";
 
 const Character = () => {
